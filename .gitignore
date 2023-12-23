@@ -3,3 +3,7 @@
 
 # Ada Library Information
 *.ali
+
+**.class
+*.jar
+.metadata/.plugins/org.eclipse.core.resources/.history/
